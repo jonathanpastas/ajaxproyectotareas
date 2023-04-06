@@ -1,9 +1,9 @@
-#JONATHAN PASTAS
+
 from flask_restful import Resource, abort, request
 from bdd import *
 
 #CONEXION A LA BASE DE DATOS MEDIANTE PONY
-db.bind('mysql',host='192.168.146.131',user='root',passwd='1234',db='tareas')
+db.bind('mysql',host='[host]',user=[userbd],passwd=[passwordbd],db=[namebd])
 db.generate_mapping(create_tables=True)
 
 def cargardb():
