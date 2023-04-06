@@ -11,7 +11,3 @@ SOFTWARE NECESARIO
 
 
 Desarrollado en JBrains PyCharm Community Edition 
-
-
-©Jonathan Sebastian Pastas Pastaz 
-jpastas@est.ups.edu.ec - jonathanpastas@hotmail.com
