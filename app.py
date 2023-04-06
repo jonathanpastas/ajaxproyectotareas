@@ -1,4 +1,4 @@
-#JONATHAN PASTAS
+
 from flask import Flask,render_template,request
 from flask_restful import Api
 from servicio import cargardb,ListaTareas,TareaItem
